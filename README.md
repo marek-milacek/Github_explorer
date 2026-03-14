@@ -6,6 +6,10 @@ A simple React application to search for GitHub repositories.
 
 This project is a small web application built with React and Vite that allows users to search for repositories on GitHub using the official GitHub API. The results are displayed in a clean, card-based interface.
 
+## Live Demo
+
+You can try out the live application here: [https://githubexplorer0.netlify.app/](https://githubexplorer0.netlify.app/)
+
 ## Features
 
 *   Search for GitHub repositories by name.
